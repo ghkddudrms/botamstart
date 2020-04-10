@@ -1,6 +1,8 @@
 discord
-discord.py[voice] == 1.2.5
+discord.py[voice]
 gtts
 PyGithub
+pyssml
 gspread
 oauth2client
+PyOpenSSL
